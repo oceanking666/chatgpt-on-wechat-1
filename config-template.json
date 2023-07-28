@@ -1,22 +1,22 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "",
+    "@"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": [""],
   "group_chat_prefix": [
-    "@bot"
+    "@"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "",
+    ""
   ],
   "group_chat_in_one_session": [
-    "ChatGPT测试群"
+    ""
   ],
   "image_create_prefix": [
     "画",
